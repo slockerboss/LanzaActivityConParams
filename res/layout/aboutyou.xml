@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tu nombre es: " />
+
+        <TextView
+            android:id="@+id/TextViewParamNombre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#5FFFFFFF"
+            android:padding="9dp"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:minWidth="63dp" />
+
+        
+    </LinearLayout>
+    <Button
+            android:id="@+id/BotonFinalizar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/Finalizar"
+            android:layout_margin="35dp" />
+
+</LinearLayout>

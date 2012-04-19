@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">HOLA MUNDO!!! </string>
+    <string name="app_name">Params Lanza Activities2</string>
+    <string name="Instrucciones">Pulsa los botones</string>
+    <string name="Bienvenida">YUyi gives you a handsake!</string>
+    <string name="Descripcion">Esta aplicación es para probar Como android LANZA actividades CON params</string>
+    <string name="TitleDescripcion">Descripción:</string>
+    <string name="TitleInstrucciones">Instrucciones:</string>
+    <string name="BotonLanzaActivity">About me...</string>
+    <string name="AboutMe">Luis R.Slocker</string>
+    <string name="volver">Volver</string>
+     <string name="Finalizar">Finalizar</string>
+     <string name="titleLoged">LOGEADO</string>
+     <string name="BotonLanzaActivity2">visita mi web</string>
+     <string name="BotonLanzaActivity3">AboutYou</string>
+     <string name="BotonLanzaActivity4">Navegar hacia</string>
+
+</resources>
